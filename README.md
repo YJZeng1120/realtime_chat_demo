@@ -11,7 +11,7 @@
 - [使用工具](#使用工具)
 
 ## 作品介紹
-這款Realtime Chat APP是我使用SwiftUI打造的side project。在這個作品中，我將先前在Flutter框架學到的邏輯經驗成功地應用到SwiftUI框架上。其核心價值在於展現我對Firebase與Firestore整合的技術，強調我在不同框架下的跨平台邏輯轉換與實際應用能力。
+這款Realtime Chat APP是我使用SwiftUI打造的side project。在這個作品中，我將先前在Flutter框架學到的邏輯經驗成功地應用到SwiftUI框架上。其核心價值在於展現我對我對Firebase Auth、Firestore、Cloud Storage整合的技術，強調我在不同框架下的跨平台邏輯轉換與實際應用能力。
 
 ### 功能：
 - 註冊資料驗證

@@ -1,6 +1,13 @@
 # Realtime Chat App
 
+![preview](https://github.com/YJZeng1120/realtime_chat_demo/assets/84773273/32f4ba41-baed-48f1-b69f-5f8e90f5c59b)
+![all](https://github.com/YJZeng1120/realtime_chat_demo/assets/84773273/366dcba4-2b60-47ec-b4c2-85c48c225dba)
+
 ---
+## 目錄
+- [作品介紹](#作品介紹)
+- [Demo影片](#Demo影片)
+- [使用工具](#使用工具)
 
 ## 作品介紹
 這款Realtime Chat APP是我使用SwiftUI打造的side project。在這個作品中，我將先前在Flutter框架學到的邏輯經驗成功地應用到SwiftUI框架上。其核心價值在於展現我對Firebase與Firestore整合的技術，強調我在不同框架下的跨平台邏輯轉換與實際應用能力。
@@ -14,6 +21,10 @@
 ### 開發時長：
 - 從無到建立，包含設計規劃，開發總時長為 1 週。
 
+## Demo影片
+
+[![cover](https://github.com/YJZeng1120/realtime_chat_demo/assets/84773273/d4b7cb4d-7f35-46be-a433-2df3a3e849df)](https://youtu.be/ApJwXJoxOUQ)
+
 ## 使用工具
 - **Frontend**
     - Xcode`14.3`
@@ -25,9 +36,9 @@
             - firebase-ios-sdk
             - Kingfisher
 - **Backend**
-    - Fireabse Auth
-    - Firestore Database
-    - Firestore Storage
+    - Fireabse
+    - Firestore
+    - Cloud Storage
 - **Other Tools**
     - **Git** (Version control)
 

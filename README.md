@@ -1,6 +1,7 @@
 # Realtime Chat App
 
-![preview](https://github.com/YJZeng1120/realtime_chat_demo/assets/84773273/32f4ba41-baed-48f1-b69f-5f8e90f5c59b)
+
+![preview](https://github.com/YJZeng1120/realtime_chat_demo/assets/84773273/f8d1d374-9c38-46b7-a17a-31e94f80e469)
 ![all](https://github.com/YJZeng1120/realtime_chat_demo/assets/84773273/366dcba4-2b60-47ec-b4c2-85c48c225dba)
 
 ---

@@ -11,7 +11,7 @@
 - [使用工具](#使用工具)
 
 ## 作品介紹
-這是我獨立使用SwiftUI打造的Side Project。在這個作品中，我將先前在Flutter學到的邏輯成功地應用到SwiftUI上。其核心價值在於展現我整合Firebase Auth、Firestore、Cloud Storage，實現一個高效的即時通訊系統，強調我在不同框架下的跨平台邏輯轉換與實際應用能力。
+這是我獨立使用SwiftUI開發的Side Project。在這個作品中，我將先前在Flutter學到的邏輯成功地應用到SwiftUI上。其核心價值在於展現我整合Firebase Auth、Firestore、Cloud Storage，實現一個高效的即時通訊系統，強調我在不同框架下的跨平台邏輯轉換與實際應用能力。
 ### 功能：
 - 註冊資料驗證
 - 註冊使用者
